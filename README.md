@@ -6,4 +6,4 @@ A Streamlit app for analyzing YouTube channel performance—tracking subscriber 
 
 **Live Demo:** [YT Channel Analytics](https://yildiramdsa-yt-channel-analytics-yt-channel-analytics-h9ai9c.streamlit.app/)
 
-![YT Channel Analytics](https://github.com/yildiramdsa/yt_channel_analytics/blob/main/yt_logo_lg.png)  
+![YT Channel Analytics](https://github.com/yildiramdsa/yt_channel_analytics/blob/main/yt_logo_lg.png)
